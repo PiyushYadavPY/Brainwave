@@ -53,7 +53,7 @@ const Benefits = () => {
                       width={380}
                       height={362}
                       alt={item.title}
-                      className="w-full h-full object-cover"
+                      className="object-cover"
                     />
                   )}
                 </div>
